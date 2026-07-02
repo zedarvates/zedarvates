@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm RapideCastor 👋</h1>
+<h1 align="center">Hey, I'm sylvain Galliez 👋</h1>
 
 <p align="center">
 Self-taught builder of AI agents, local-first systems, creative pipelines, and autonomous platforms — from industrial sciences into software, art, 3D, and autonomy.
