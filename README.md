@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm sylvain Galliez 👋</h1>
-
+https://orcid.org/0009-0009-1286-3683
 <p align="center">
 Self-taught builder of AI agents, local-first systems, creative pipelines, and autonomous platforms — from industrial sciences into software, art, 3D, and autonomy.
 </p>
