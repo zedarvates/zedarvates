@@ -1,7 +1,8 @@
-<h1 align="center">Hey, I'm sylvain Galliez 👋</h1>
-https://orcid.org/0009-0009-1286-3683
+<h1 align="center">Hey, I'm sylvain Galliez — Systems Architect & Autonomous Pipeline Engineer👋</h1>
+ORCID: https://orcid.org/0009-0009-1286-3683
 <p align="center">
-Self-taught builder of AI agents, local-first systems, creative pipelines, and autonomous platforms — from industrial sciences into software, art, 3D, and autonomy.
+Self‑taught architect building AI agents, local‑first systems, VR engines, and autonomous creative pipelines.
+I merge industrial sciences, software engineering, 3D art, and low‑level systems into coherent platforms designed for autonomy, performance, and creativity.
 </p>
 
 <p align="center">
@@ -20,15 +21,55 @@ Trained in industrial sciences and techniques, I built most of my engineering sk
 
 My work spans six areas that keep showing up across my repos:
 
-- **AI agent architectures** — orchestration frameworks, memory, skill bundles, self-evaluating pipelines, and multi-LLM fusion engines for autonomous agents.
-- **Local-first / offline AI** — voice assistants, TTS/STT, and inference stacks that run on your own hardware, no cloud dependency.
-- **Creative & generative pipelines** — multimedia generation (image, video, story, audio), procedural 3D/VR tooling, and AI-driven content creation.
-- **Game development** — custom MMORPG servers, Godot engines, VR rendering, and interactive 3D experiences.
-- **Robotics & secure systems** — air-gapped communication, drone/robot control, laser tag racers, and low-level performance work (Rust, CUDA).
-- **Creative software mastery** — 3D modeling, digital painting, animation, and procedural content creation across industry-standard tools.
+-
+🧩 What I Build
+My work consistently revolves around six engineering domains:
 
-I learn by shipping. Most of these projects started as "can this even work" experiments and turned into working systems.
+1. AI Agent Architectures
+Multi‑agent orchestration frameworks
 
+Memory systems & skill bundles
+
+Self‑evaluating pipelines
+
+Multi‑LLM fusion engines
+
+DAG‑based reasoning flows
+
+2. Local‑First / Offline AI
+Voice assistants (STT/TTS, identity, wake‑word)
+
+Local inference stacks (GPU, ONNX, CUDA, quantization)
+
+Cloud‑free autonomy systems
+
+3. Creative & Generative Pipelines
+Image/video/story/audio generation
+
+Procedural 3D/VR tooling
+
+Neural rendering & multimedia agents
+
+4. Game Engines & VR
+Custom MMORPG servers
+
+Godot VR engines (FoveaCore)
+
+Interaction design & spatial UX
+
+Low‑poly + Gaussian Splatting hybrid rendering
+
+5. Robotics & Secure Systems
+Air‑gapped communication
+
+Drone/robot control
+
+Ultrasonic + optical secure handshake
+
+Post‑quantum‑minded protocols
+
+6. Creative Software Mastery
+Daily use of Blender, Maya, Krita, Material Maker, Godot, Unity, ComfyUI, HyperFrames.
 ---
 
 ### 🛠️ Languages & Frameworks
