@@ -1,4 +1,4 @@
-# <img src="assets/github-profile-header-v3.png" alt="Sylvain Galliez, local-first AI, autonomous pipelines, and real-time engines" width="100%">
+# <img src="assets/github-profile-header-v4.png" alt="Sylvain Galliez, local-first AI, autonomous pipelines, and real-time engines" width="100%">
 
 # Hi, I'm Sylvain Galliez
 
