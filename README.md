@@ -1,3 +1,5 @@
+# <img src="assets/github-profile-header-v2.png" alt="Sylvain Galliez, local-first AI, autonomous pipelines, and real-time engines" width="100%">
+
 # Hi, I'm Sylvain Galliez
 
 **Systems architect building local-first AI, autonomous pipelines, and creative
